@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354962944592",
+    "project_id": "loginexample-507b7",
+    "storage_bucket": "loginexample-507b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354962944592:android:6caf701a3453cb4a985755",
+        "android_client_info": {
+          "package_name": "com.yujin.loginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354962944592-4knj4eq40e6fl7g1cb3k128s2o17n4ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBq3RPrvQ84Jgr3ueFeTBvcz788YGdGcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354962944592-4knj4eq40e6fl7g1cb3k128s2o17n4ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
